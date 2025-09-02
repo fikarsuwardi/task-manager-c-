@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yYwF4GeqS0=",
+  "success": true,
+  "projectFilePath": "/Users/fikarsuwardi/Documents/SwiftX/F/TaskManagement.Domain/TaskManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/fikarsuwardi/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
